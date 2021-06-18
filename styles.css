@@ -1,0 +1,43 @@
+h1 {
+	text-align: center; 
+    color: #666699;
+    padding: 10px; 
+    border: 20px groove grey;
+}
+
+img {
+    width: 200px;   
+}
+body {
+	font-family: 'Noto Sans JP', sans-serif;
+    text-align: center;
+    background-color: #F5F5DC;
+	
+}
+.aboutMe{
+	border: 10px groove black;
+     text-align: center;
+     margin: 10px;
+     padding: 20px;
+
+
+    
+}
+.posts {
+	border: 10px groove black;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+
+}
+.friendsList {
+	border: 10px groove black;
+     text-align: center;
+     margin: 10px;
+     padding: 20px;
+}
+.navBar {
+     display: flex;
+     justify-content: space-around;
+   
+}
